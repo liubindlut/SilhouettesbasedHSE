@@ -1,4 +1,5 @@
-This is only for testing our algorithm.
+This is a demo for testing our algorithm 
+"Concise and effective network for 3D human modeling from orthogonal sihouettes".
 
 (1) The main function is in demo_real.py.
     It has thress parameters.
