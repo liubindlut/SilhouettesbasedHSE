@@ -1,0 +1,4 @@
+bodyheight:177
+hip:96
+waist:73
+chest:85

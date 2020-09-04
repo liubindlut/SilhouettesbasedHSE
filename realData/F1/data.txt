@@ -1,0 +1,4 @@
+bodyheight:163
+hip:91
+waist:71
+chest:86

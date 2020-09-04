@@ -1,0 +1,5 @@
+bodyheight:160
+hip:99
+waist:82
+chest:90
+

@@ -1,0 +1,4 @@
+bodyheight:170
+hip:85
+waist:66
+chest:84
