@@ -1,0 +1,5 @@
+bodyheight:175
+hip:96
+waist:83
+chest:94
+
