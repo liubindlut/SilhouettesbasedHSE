@@ -26,7 +26,8 @@ def getBinaryimage(img_dir_filename, resolution_normalization_height=600):
 
         img = cv2.imread(img_dir_filename)
         grayimage = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        ret, grayimage = cv2.threshold(grayimage, 230, 255, cv2.THRESH_BINARY)
+        #ret, grayimage = cv2.threshold(grayimage, 230, 255, cv2.THRESH_BINARY)
+        ret, grayimage = cv2.threshold(grayimage, 0.5, 255, cv2.THRESH_BINARY)
         img[:,:,0] = grayimage
         img[:,:,1] = grayimage
         img[:,:,2] = grayimage
